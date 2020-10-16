@@ -6,4 +6,5 @@ y1 = np.sin(x)
 plt.figure(1)
 plt.subplot(111)
 plt.plot(x, y1)
+
 plt.show()

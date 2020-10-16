@@ -11,4 +11,5 @@ plt.plot(x, y1)
 
 plt.subplot(222)
 plt.plot(x,y2)
+
 plt.show()
